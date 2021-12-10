@@ -1,0 +1,5 @@
+git clone <nome do repositório>
+git status
+git add .
+git commit -m "comentários"
+git push origin main
